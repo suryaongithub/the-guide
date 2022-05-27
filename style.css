@@ -1,0 +1,198 @@
+body {
+    background-color: aqua;
+}
+
+.sus {
+    font:italic;
+    font-size: large;
+    background-color:#00ffbf;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.super_sus
+{
+    font:italic;
+    font-size: large;
+    background-color:rgb(13, 227, 255);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.suppa_duppa_sus {
+
+    font:italic;
+    font-size: large;
+    background-color:rgb(0, 174, 255);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+#not_sus { 
+    background-color:rgb(0, 55, 255);
+    border-radius: 50px;
+    padding: 10px;
+    
+}
+
+
+
+.even_more_sus {
+    font:italic;
+    font-size: large;
+    background-color:rgba(0, 208, 255, 0.928);
+    border-radius: 25px;
+    padding: 10px;
+
+}
+
+.suppa_duppa_poppa_sus {
+    font:italic;
+    font-size: large;
+    background-color:rgb(51, 219, 245);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+
+.button {
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #02ff89;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 8px;
+    width: 300px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    box-shadow: 5px,rgb(4, 255, 0);
+    content: '\00bb rules';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 75px;
+    padding-left: 10px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+.ara {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: xx-large;
+    background-color:#00ffb3;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.area {
+    font:italic;
+    font-size: x-large;
+    background-color:#00ffb3;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.button2 {
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #02ff89;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 8px;
+    width: 500px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .button2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button2 span:after {
+    box-shadow: 5px,rgb(4, 255, 0);
+    content: '\00bb the tower';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button2:hover span {
+    padding-right: 130px;
+    padding-left: 20px;
+  }
+  
+  .button2:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+  .button1 {
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #02ff89;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 8px;
+    width: 500px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .button1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button1 span:after {
+    box-shadow: 5px,rgb(4, 255, 0);
+    content: '\00bb toppling objects';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button1:hover span {
+    padding-right: 210px;
+    padding-left: 20px;
+  }
+  
+  .button1:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
